@@ -1,7 +1,14 @@
 .App {
   text-align: center;
+  background: red;
+  height: 200vh
 }
+.App-section {
+  border: red 2px solid;
+  margin: 100px;
+  background: white
 
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
